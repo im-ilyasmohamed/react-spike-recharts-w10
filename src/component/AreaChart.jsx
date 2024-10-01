@@ -93,7 +93,7 @@ const customTooltip = ({ active, payload, label }) => {
         style={{
           backgroundColor: "#0f172a",
           border: "1px solid #ccc",
-          padding: "10px",
+          padding: "5px",
         }}
       >
         <p>{label}</p>
